@@ -1,0 +1,16 @@
+.menuBotoes {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 7vh;
+  background-color: rgb(219, 214, 214)
+}
+
+#btnHome, #btnEstacionamento, #btnVeiculos {
+  margin: 0.5%;
+  padding: 0.5%;
+  width: 150px;
+  min-width: 15vw;
+  max-width: 15vw;
+  margin-left: 3vw;
+}

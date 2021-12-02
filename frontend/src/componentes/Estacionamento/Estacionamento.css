@@ -1,0 +1,9 @@
+.estacionamento {
+  height: 60vh;
+  margin: 0.2%;
+  text-align: center;
+}
+
+tbody tr th {
+  width: 10px;
+}
